@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Ansible, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [github.com/abishekgautam44/](github.com/abishekgautam44/)
+- 👨‍💻 All of my projects are available at https://github.com/abishekgautam44/
 
-- 📝 I regularly write articles on [blog.abishekgautam.com.np](blog.abishekgautam.com.np)
+- 📝 I regularly write articles on https://blog.abishekgautam.com.np/
 
 - 💬 Ask me about **AWS, Linux, Python, Docker, Terraform**
 
