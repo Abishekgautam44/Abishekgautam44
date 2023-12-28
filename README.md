@@ -2,9 +2,9 @@
 <h3 align="center">AWS CLOUD PRACTITIONER || DEVOPS</h3>
 
 <image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FaWWvRot5OSRJS%2Fgiphy.gif&f=1&nofb=1&ipt=18cbc7bea79a0755d331d4bf664337bdc6bf4ea71c92fd142794ef6dc057d631&ipo=images" alt="coding" align="right" width="400">
-- 🔭 I’m currently working on **RARA Labs**
 
-- 🌱 I’m currently learning **Ansible, Kubernetes**
+
+- 🌱 I’m currently learning **Jenkins, Kubernetes**
 
 - 👨‍💻 All of my projects are available at https://github.com/abishekgautam44/
 
