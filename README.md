@@ -1,6 +1,6 @@
 ---
 <h1 align="center">Hi, I'm Abishek Gautam 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS Certified DevOps Engineer – Professional</h3>
+<h3 align="center">Cloud & DevOps Engineer </h3>
 
 <p align="center">
   Building secure, automated, and cost-efficient cloud infrastructure on AWS.
